@@ -14,16 +14,46 @@
 
 2. MARCO TEÓRICO (RESUMEN)
 
-![Screenshot]()
+![Screenshot](DEBER7Y8/1.jpg)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Resolución del capitulo 7 (ejercicios impares)
 
-![Screenshot]()
+![Screenshot](DEBER7Y8/2.jpg)
+![Screenshot](DEBER7Y8/3.jpg)
+![Screenshot](DEBER7Y8/4.jpg)
+![Screenshot](DEBER7Y8/5.jpg)
+![Screenshot](DEBER7Y8/6.jpg)
+![Screenshot](DEBER7Y8/7.jpg)
+![Screenshot](DEBER7Y8/8.jpg)
+![Screenshot](DEBER7Y8/9.jpg)
+![Screenshot](DEBER7Y8/10.jpg)
+![Screenshot](DEBER7Y8/11.jpg)
+![Screenshot](DEBER7Y8/12.jpg)
+![Screenshot](DEBER7Y8/13.jpg)
+![Screenshot](DEBER7Y8/14.jpg)
 
 Resolución del capitulo 8 (ejercicios pares)
 
+![Screenshot](DEBER7Y8/15.jpg)
+![Screenshot](DEBER7Y8/16.jpg)
+![Screenshot](DEBER7Y8/17.jpg)
+![Screenshot](DEBER7Y8/18.jpg)
+![Screenshot](DEBER7Y8/19.jpg)
+![Screenshot](DEBER7Y8/20.jpg)
+![Screenshot](DEBER7Y8/21.jpg)
+![Screenshot](DEBER7Y8/22.jpg)
+![Screenshot](DEBER7Y8/23.jpg)
+![Screenshot](DEBER7Y8/24.jpg)
+![Screenshot](DEBER7Y8/25.jpg)
+![Screenshot](DEBER7Y8/26.jpg)
+![Screenshot](DEBER7Y8/27.jpg)
+![Screenshot](DEBER7Y8/28.jpg)
+![Screenshot](DEBER7Y8/29.jpg)
+![Screenshot](DEBER7Y8/30.jpg)
+![Screenshot](DEBER7Y8/31.jpg)
+![Screenshot](DEBER7Y8/32.jpg)
 
 
 4. VIDEO
