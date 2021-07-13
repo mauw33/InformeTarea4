@@ -59,7 +59,6 @@ Resolución del capitulo 8 (ejercicios pares)
 4. VIDEO
 
 
-
 5. CONCLUSIONES
 
 El trabajo realizado para la resolución del deber ha sido muy provechosa por varias razones, las cuales se resumen en esta conclusión. En primer lugar, se ha practicado el uso de circuitos en serie de paralelo y los diferentes metodos de analisis.Esencialmente el metodo de mallas y nodos, asi mismo las redes puentes.
