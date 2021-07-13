@@ -58,6 +58,7 @@ Resolución del capitulo 8 (ejercicios pares)
 
 4. VIDEO
 
+https://youtu.be/1qOR-gSH88k
 
 5. CONCLUSIONES
 
